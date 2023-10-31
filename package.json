@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "auto-git-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "debug": "^4.3.4",
+    "node-schedule": "^2.1.1",
+    "simple-git": "^3.20.0"
+  }
+}
